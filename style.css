@@ -123,6 +123,7 @@ button {
 
 button:hover{
   transform: scale(.95);
+  background-color: green;
 }
 
 .button--main {
